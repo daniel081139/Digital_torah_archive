@@ -43,9 +43,8 @@ This document organizes reliable resources and links by major categories centere
 ## 4. Halakha (Law and Interpretation)
 
 
-- [Chabad.org - Daily Halachah](https://www.chabad.org/library/article_cdo/aid/812333/jewish/Daily-Halachah.htm)
-- [Sefaria - Talmud](https://www.sefaria.org/texts/Talmud)
-- [Sefaria - Halakhah (Jewish Law)](https://www.sefaria.org/topics/halakhah)
+- [Chabad.org - Kitzur Shulchan Aruch - הרב שלמה גאנצפריד זצ”ל](https://www.chabad.org/library/article_cdo/aid/4297832/jewish/Kitzur-Shulchan-Aruch.htm)
+- [Sefaria - Halakhah (Jewish Law)](https://www.sefaria.org/texts/Halakhah)
 
 ---
 
