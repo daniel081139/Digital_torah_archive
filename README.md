@@ -9,8 +9,8 @@ This document organizes reliable resources and links by major categories centere
 - [1. Chumash (Torah Commentary)](#1-humash-torah-commentary)
 - [2. Mussar (Ethics and Character Development)](#2-mussar-ethics-and-character-development)
 - [3. Kabbalah (Jewish Mysticism)](#3-kabbalah-jewish-mysticism)
-- [4. Talmud & Halakha (Law and Interpretation)](#4-talmud--halakha-law-and-interpretation)
-- [5. Hasidism (Hasidic Movement and Mystical Experience)](#5-hasidism-hasidic-movement-and-mystical-experience)
+- [4. Talmud & Halakha (Law and Interpretation)](#4-halakha-law-and-interpretation)
+- [5. Hashkafah (Jewish Metaphysics)](#5-hashkafah-jewish-metaphysics)
 - [6. Midrash (Hermeneutics and Legends)](#6-midrash-hermeneutics-and-legends)
 - [7. Other Thematic Resources](#7-other-thematic-resources)
 
@@ -35,7 +35,6 @@ This document organizes reliable resources and links by major categories centere
 ## 3. Kabbalah (Jewish Mysticism)
 
 - [Sefaria - Zohar](https://www.sefaria.org/texts/Zohar)
-- ###[he]
 - [Chabad.org - Introduction to Kabbalah](https://www.chabad.org/library/article_cdo/aid/361902/jewish/What-Is-Kabbalah.htm)
 - [My Jewish Learning - Kabbalah Overview](https://www.myjewishlearning.com/article/kabbalah-and-jewish-mysticism/)
 
@@ -50,7 +49,7 @@ This document organizes reliable resources and links by major categories centere
 
 ---
 
-## 5. Hasidism (Hasidic Movement and Mystical Experience)
+## 5.  Hashkafah (Jewish Metaphysics)
 
 - [Chabad.org - What is Hasidism?](https://www.chabad.org/library/article_cdo/aid/335849/jewish/What-Is-Chassidism.htm)
 - [My Jewish Learning - Hasidism](https://www.myjewishlearning.com/article/hasidism/)
