@@ -6,7 +6,7 @@ This document organizes reliable resources and links by major categories centere
 
 ## Table of Contents
 
-- [1. Humash (Torah Commentary)](#1-humash-torah-commentary)
+- [1. Chumash (Torah Commentary)](#1-humash-torah-commentary)
 - [2. Mussar (Ethics and Character Development)](#2-mussar-ethics-and-character-development)
 - [3. Kabbalah (Jewish Mysticism)](#3-kabbalah-jewish-mysticism)
 - [4. Talmud & Halakha (Law and Interpretation)](#4-talmud--halakha-law-and-interpretation)
@@ -35,6 +35,7 @@ This document organizes reliable resources and links by major categories centere
 ## 3. Kabbalah (Jewish Mysticism)
 
 - [Sefaria - Zohar](https://www.sefaria.org/texts/Zohar)
+-   [he]
 - [Chabad.org - Introduction to Kabbalah](https://www.chabad.org/library/article_cdo/aid/361902/jewish/What-Is-Kabbalah.htm)
 - [My Jewish Learning - Kabbalah Overview](https://www.myjewishlearning.com/article/kabbalah-and-jewish-mysticism/)
 
