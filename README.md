@@ -11,7 +11,7 @@ This document organizes reliable resources and links by major categories centere
 - [3. Kabbalah (Jewish Mysticism)](#3-kabbalah-jewish-mysticism)
 - [4. Halakha (Law and Interpretation)](#4-halakha-law-and-interpretation)
 - [5. Hashkafah (Jewish Metaphysics)](#5-hashkafah-jewish-metaphysics)
-- [6. Midrash (Hermeneutics and Legends)](#6-midrash-hermeneutics-and-legends)
+- [6. Midrash (Ancient Commentaries)](#6-midrash-ancient-commentaries)
 - [7. Other Thematic Resources](#7-other-thematic-resources)
 
 ---
@@ -20,7 +20,7 @@ This document organizes reliable resources and links by major categories centere
 
 - [Sefaria - Torah with Commentary](https://www.sefaria.org/texts/Tanakh/Torah)
 - [Chabad.org - Parsha (Weekly Torah Portion Commentary)](https://www.chabad.org/parshah/default_cdo/jewish/Torah-Portion.htm)
-- [My Jewish Learning - What is the Humash?](https://www.myjewishlearning.com/article/humash/)
+
 
 ---
 
@@ -28,7 +28,7 @@ This document organizes reliable resources and links by major categories centere
 
 - [The Mussar Institute](https://mussarinstitute.org/)
 - [Sefaria - Mussar Texts](https://www.sefaria.org/topics/mussar)
-- [My Jewish Learning - What is Mussar?](https://www.myjewishlearning.com/article/mussar/)
+
 
 ---
 
@@ -36,7 +36,7 @@ This document organizes reliable resources and links by major categories centere
 
 - [Sefaria - Zohar](https://www.sefaria.org/texts/Zohar)
 - [Chabad.org - Introduction to Kabbalah](https://www.chabad.org/library/article_cdo/aid/361902/jewish/What-Is-Kabbalah.htm)
-- [My Jewish Learning - Kabbalah Overview](https://www.myjewishlearning.com/article/kabbalah-and-jewish-mysticism/)
+
 
 ---
 
@@ -45,22 +45,20 @@ This document organizes reliable resources and links by major categories centere
 - [Sefaria - Talmud](https://www.sefaria.org/texts/Talmud)
 - [Sefaria - Halakhah (Jewish Law)](https://www.sefaria.org/topics/halakhah)
 - [Chabad.org - Daily Halachah](https://www.chabad.org/library/article_cdo/aid/812333/jewish/Daily-Halachah.htm)
-- [My Jewish Learning - Introduction to Halakhah](https://www.myjewishlearning.com/article/halakhah-the-jewish-law/)
+
 
 ---
 
 ## 5.  Hashkafah (Jewish Metaphysics)
 
 - [Chabad.org - What is Hasidism?](https://www.chabad.org/library/article_cdo/aid/335849/jewish/What-Is-Chassidism.htm)
-- [My Jewish Learning - Hasidism](https://www.myjewishlearning.com/article/hasidism/)
 - [Sefaria - Hasidic Texts](https://www.sefaria.org/topics/hasidism)
 
 ---
 
-## 6. Midrash (Hermeneutics and Legends)
+## 6. Midrash (Ancient Commentaries)
 
 - [Sefaria - Midrash Collection](https://www.sefaria.org/texts/Midrash)
-- [My Jewish Learning - What is Midrash?](https://www.myjewishlearning.com/article/midrash-101/)
 - [Jewish Virtual Library - Midrash](https://www.jewishvirtuallibrary.org/midrash)
 
 ---
@@ -69,7 +67,6 @@ This document organizes reliable resources and links by major categories centere
 
 - [Sefaria - All Jewish Texts](https://www.sefaria.org/texts)
 - [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/)
-- [My Jewish Learning](https://www.myjewishlearning.com/)
 
 ---
 
