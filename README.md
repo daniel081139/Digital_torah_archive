@@ -52,8 +52,8 @@ This document organizes reliable resources and links by major categories centere
 
 ## 5.  Hashkafah (Jewish Metaphysics)
 
-- [Chabad.org - What is Hasidism?](https://www.chabad.org/library/article_cdo/aid/335849/jewish/What-Is-Chassidism.htm)
-- [Sefaria - Hasidic Texts](https://www.sefaria.org/topics/hasidism)
+- [Derek hashem - הרמחלז”ל](https://www.sefaria.org/Derekh_Hashem?tab=contents)
+- [Daf Yomi Review - Shaarei yichud michovos halevavos - רבי בחיי אבן פקודה](https://dafyomireview.com/article.php?docid=414)
 
 ---
 
