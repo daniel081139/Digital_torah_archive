@@ -59,15 +59,14 @@ This document organizes reliable resources and links by major categories centere
 
 ## 6. Midrash (Ancient Commentaries)
 
-- [Jewish Virtual Library - Midrash](https://www.jewishvirtuallibrary.org/midrash)
 - [Sefaria - Midrash Collection](https://www.sefaria.org/texts/Midrash)
 
 ---
 
 ## 7. Other Thematic Resources
 
-- [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/)
-- - [Sefaria - All Jewish Texts](https://www.sefaria.org/texts)
+
+- [Sefaria - All Jewish Texts](https://www.sefaria.org/texts)
 
 ---
 
