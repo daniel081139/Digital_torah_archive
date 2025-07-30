@@ -18,6 +18,7 @@ This document organizes reliable resources and links by major categories centere
 
 ## 1. Chumash (Torah Commentary)
 
+- [D.A.F's Chumash section](https://www.dafyomi.co.il/chumash/chumash_picker.php)
 - [Sefaria - Torah with Commentary](https://www.sefaria.org/texts/Tanakh/Torah)
 - [Chabad.org - Parsha (Weekly Torah Portion Commentary)](https://www.chabad.org/parshah/default_cdo/jewish/Torah-Portion.htm)
 
