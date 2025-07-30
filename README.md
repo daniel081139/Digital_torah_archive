@@ -16,7 +16,7 @@ This document organizes reliable resources and links by major categories centere
 
 ---
 
-## 1. Humash (Torah Commentary)
+## 1. Chumash (Torah Commentary)
 
 - [Sefaria - Torah with Commentary](https://www.sefaria.org/texts/Tanakh/Torah)
 - [Chabad.org - Parsha (Weekly Torah Portion Commentary)](https://www.chabad.org/parshah/default_cdo/jewish/Torah-Portion.htm)
@@ -35,7 +35,7 @@ This document organizes reliable resources and links by major categories centere
 ## 3. Kabbalah (Jewish Mysticism)
 
 - [Sefaria - Zohar](https://www.sefaria.org/texts/Zohar)
--   [he]
+- ###[he]
 - [Chabad.org - Introduction to Kabbalah](https://www.chabad.org/library/article_cdo/aid/361902/jewish/What-Is-Kabbalah.htm)
 - [My Jewish Learning - Kabbalah Overview](https://www.myjewishlearning.com/article/kabbalah-and-jewish-mysticism/)
 
