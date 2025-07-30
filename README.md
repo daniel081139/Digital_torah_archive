@@ -19,8 +19,8 @@ This document organizes reliable resources and links by major categories centere
 ## 1. Chumash (Torah Commentary)
 
 - [D.A.F's Chumash section](https://www.dafyomi.co.il/chumash/chumash_picker.php)
-- [Sefaria - Torah with Commentary](https://www.sefaria.org/texts/Tanakh/Torah)
 - [Chabad.org - Parsha (Weekly Torah Portion Commentary)](https://www.chabad.org/parshah/default_cdo/jewish/Torah-Portion.htm)
+- - [Sefaria - Torah with Commentary](https://www.sefaria.org/texts/Tanakh/Torah)
 
 
 ---
@@ -35,18 +35,18 @@ This document organizes reliable resources and links by major categories centere
 
 ## 3. Kabbalah (Jewish Mysticism)
 
-- [Sefaria - Zohar](https://www.sefaria.org/texts/Zohar)
-- [Chabad.org - Introduction to Kabbalah](https://www.chabad.org/library/article_cdo/aid/361902/jewish/What-Is-Kabbalah.htm)
 
+- [Chabad.org - Introduction to Kabbalah](https://www.chabad.org/library/article_cdo/aid/361902/jewish/What-Is-Kabbalah.htm)
+- [Sefaria - Zohar](https://www.sefaria.org/texts/Zohar)
 
 ---
 
 ## 4. Halakha (Law and Interpretation)
 
+
+- [Chabad.org - Daily Halachah](https://www.chabad.org/library/article_cdo/aid/812333/jewish/Daily-Halachah.htm)
 - [Sefaria - Talmud](https://www.sefaria.org/texts/Talmud)
 - [Sefaria - Halakhah (Jewish Law)](https://www.sefaria.org/topics/halakhah)
-- [Chabad.org - Daily Halachah](https://www.chabad.org/library/article_cdo/aid/812333/jewish/Daily-Halachah.htm)
-
 
 ---
 
@@ -59,15 +59,15 @@ This document organizes reliable resources and links by major categories centere
 
 ## 6. Midrash (Ancient Commentaries)
 
-- [Sefaria - Midrash Collection](https://www.sefaria.org/texts/Midrash)
 - [Jewish Virtual Library - Midrash](https://www.jewishvirtuallibrary.org/midrash)
+- [Sefaria - Midrash Collection](https://www.sefaria.org/texts/Midrash)
 
 ---
 
 ## 7. Other Thematic Resources
 
-- [Sefaria - All Jewish Texts](https://www.sefaria.org/texts)
 - [Jewish Virtual Library](https://www.jewishvirtuallibrary.org/)
+- - [Sefaria - All Jewish Texts](https://www.sefaria.org/texts)
 
 ---
 
