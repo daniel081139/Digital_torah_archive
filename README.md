@@ -63,8 +63,8 @@ This document organizes reliable resources and links by major categories centere
 
 ## 7. Other Thematic Resources
 
+-[Gedolim Photos - photos of gedolei yisroel](https://aegedolimphotos.com/)
 
-- [Sefaria - All Jewish Texts](https://www.sefaria.org/texts)
 
 ---
 
