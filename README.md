@@ -27,7 +27,7 @@ This document organizes reliable resources and links by major categories centere
 
 ## 2. Mussar (Ethics and Character Development)
 
-- [The Mussar Institute](https://mussarinstitute.org/)
+- [D.A.F's Mesilas Yesharim](https://www.dafyomi.co.il/general/info/ref/mesilat.php)
 - [Sefaria - Mussar Texts](https://www.sefaria.org/topics/mussar)
 
 
