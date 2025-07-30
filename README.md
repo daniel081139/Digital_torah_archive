@@ -37,7 +37,6 @@ This document organizes reliable resources and links by major categories centere
 
 
 - [Chabad.org - Introduction to Kabbalah](https://www.chabad.org/library/article_cdo/aid/361902/jewish/What-Is-Kabbalah.htm)
-- [Sefaria - Zohar](https://www.sefaria.org/texts/Zohar)
 
 ---
 
