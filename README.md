@@ -20,7 +20,7 @@ This document organizes reliable resources and links by major categories centere
 
 - [D.A.F's Chumash section](https://www.dafyomi.co.il/chumash/chumash_picker.php)
 - [Chabad.org - Parsha (Weekly Torah Portion Commentary)](https://www.chabad.org/parshah/default_cdo/jewish/Torah-Portion.htm)
-- - [Sefaria - Torah with Commentary](https://www.sefaria.org/texts/Tanakh/Torah)
+- [Sefaria - Torah with Commentary](https://www.sefaria.org/texts/Tanakh/Torah)
 
 
 ---
