@@ -9,7 +9,7 @@ This document organizes reliable resources and links by major categories centere
 - [1. Chumash (Torah Commentary)](#1-humash-torah-commentary)
 - [2. Mussar (Ethics and Character Development)](#2-mussar-ethics-and-character-development)
 - [3. Kabbalah (Jewish Mysticism)](#3-kabbalah-jewish-mysticism)
-- [4. Talmud & Halakha (Law and Interpretation)](#4-halakha-law-and-interpretation)
+- [4. Halakha (Law and Interpretation)](#4-halakha-law-and-interpretation)
 - [5. Hashkafah (Jewish Metaphysics)](#5-hashkafah-jewish-metaphysics)
 - [6. Midrash (Hermeneutics and Legends)](#6-midrash-hermeneutics-and-legends)
 - [7. Other Thematic Resources](#7-other-thematic-resources)
@@ -40,7 +40,7 @@ This document organizes reliable resources and links by major categories centere
 
 ---
 
-## 4. Talmud & Halakha (Law and Interpretation)
+## 4. Halakha (Law and Interpretation)
 
 - [Sefaria - Talmud](https://www.sefaria.org/texts/Talmud)
 - [Sefaria - Halakhah (Jewish Law)](https://www.sefaria.org/topics/halakhah)
