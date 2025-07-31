@@ -51,7 +51,8 @@ This document organizes reliable resources and links by major categories centere
 ## 5.  Hashkafah (Jewish Metaphysics)
 
 - [Sefaria - Derek hashem - הרמחלז”ל](https://www.sefaria.org/Derekh_Hashem?tab=contents)
-- [Daf Yomi Review - Shaarei yichud michovos halevavos - רבי בחיי אבן פקודה](https://dafyomireview.com/article.php?docid=414)
+- [Daf Yomi Review - Shaar hayichud michovos halevavos - רבי בחיי אבן פקודה](https://www.dafyomi.co.il/general/info/chovos/index.php?docid=398)
+- [Daf Yomi Review - Shaar bechinah michovos halevavos - רבי בחיי אבן פקודה](https://www.dafyomi.co.il/general/info/chovos/article.php?docid=414)
 
 ---
 
